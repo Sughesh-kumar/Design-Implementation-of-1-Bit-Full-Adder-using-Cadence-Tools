@@ -63,7 +63,8 @@ Commands to get into Cadence:
     +	Make the connections by using fixed narrow wire key
     +	Click Check and Save button
 
-![Screenshot 2024-11-13 155157](https://github.com/user-attachments/assets/1247b1ef-8250-4877-a93b-99ffbdec9229)
+![Screenshot 2024-11-13 155022](https://github.com/user-attachments/assets/305dd46c-515a-4ffb-b62e-f53ee79bc2a3)
+
 
 
  
@@ -118,6 +119,9 @@ Commands to get into Cadence:
   - In the simulation setup, choose transient analysis.
   - Specify the time range for the analysis (start and stop time).
   - Run the simulation and observe the output waveforms
+
+![Screenshot 2024-11-13 155157](https://github.com/user-attachments/assets/5841f2cf-ba6b-4359-b846-07c84dacfba1)
+
  ![Screenshot 2024-11-13 155131](https://github.com/user-attachments/assets/8a6709da-74a6-470b-9346-934ec56b7411)
 
 
